@@ -13,6 +13,7 @@ This project is an implementation of the Sudoku game in Python, with two main fu
 
 * Sudoku Board Generation:
     * The program generates a Sudoku board by filling it with random numbers from 1 to 9, following the Sudoku rules, i.e., ensuring that numbers in each of the nine 3x3 squares.
+* Sudoku Solving:
     * Players can check if the Sudoku board they provide is a valid solution according to the Sudoku rules.
 
 ## Setup
